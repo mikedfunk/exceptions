@@ -1,0 +1,16 @@
+{
+    "name": "mikedfunk/exceptions",
+    "description": "Some additional specific php exceptions",
+    "authors": [
+        {
+            "name": "Mike Funk",
+            "email": "mike@mikefunk.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "MikeFunk\\": "src/MikeFunk/"
+      }
+    }
+}
